@@ -3,6 +3,8 @@ title: Dave Kush
 role: Assistant Professor of Psycholinguistics
 avatar_filename: avatar
 social: []
+organizations:
+  - name: University of Toronto
 education:
   courses:
     - course: PhD, Linguistics
